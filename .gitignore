@@ -1,0 +1,11 @@
+**/_build
+**/.zig-cache
+**/platform
+.idea
+**/bin
+**/*.opam
+**/ocaml/lib
+**/ocaml/test
+**/dune-project
+**/justfile
+
